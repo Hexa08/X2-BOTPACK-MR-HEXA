@@ -4,7 +4,7 @@ module.exports.config = {
   permssion: 0,
   premium: false,
   prefix: true,
-  credits: "Hamim",
+  credits: "Jony Sing",
   description: "redroom vids",
   category: "Not For Kids",
   usages: "",

@@ -1,4 +1,4 @@
-name: X2-BOTPACK
+name: X2-BOTPACK-MR.Hexa
 
 on:
   push:
@@ -10,7 +10,7 @@ jobs:
   build:
 
 
-    runs-on: ubuntu-latest
+    runs-on: kali-latest
 
     strategy:
       matrix:
